@@ -6,11 +6,19 @@ body{
 h1{
   color:white;
 }
+#jumb1{
+  width:500px;
+  height:25vh;
+  float:right;
+  margin-right:30px;
+
+}
 #jumb{
 width:500px;
-height:60vh;
+height:55vh;
 float:right;
-margin:30px;
+margin-right:30px;
+clear:both;
 }
 .bttn{
   margin: 10px;
