@@ -1,5 +1,14 @@
 body{
   background-size:cover;
   background-repeat: no-repeat;
-  background-image:url("https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-fresh-and-technological-sense-real-estate-advertising-background-techlightblue-backgroundadvertising-backgroundpropertylight-image_69710.jpg");
+  background-image:url("https://www.constructionkenya.com/wp-content/uploads/2018/07/Karen.jpg");
+}
+h1{
+  color:white;
+}
+.jumbotron{
+width:500px;
+height:60vh;
+float:right;
+margin:30px;
 }
