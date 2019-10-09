@@ -33,11 +33,10 @@
 
 ## collaborate
 - To collaborate to Makao,reach us on https://github.com/dejongbrian/Makao-.git
+
  ## Copyright 
 **&copycopyright 2019  [MAKAO .inc] All rights reserved**
 
 ## Licence
 - MIT License 
 
-
-## Contact Details
