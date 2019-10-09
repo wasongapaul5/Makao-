@@ -1,4 +1,4 @@
-/* body{
+body{
   background-size:cover;
   background-repeat: no-repeat;
   background-image:url("https://www.constructionkenya.com/wp-content/uploads/2018/07/Karen.jpg");
@@ -11,8 +11,8 @@ h1{
   /* margin-left:330px; */
   font-size:6em;
   /* padding-left: 20px; */
-  /* text-align: justify; */
-  clear:both;
+  /* text-align: justify; */ */
+   /* clear:both; */ */ */
 }
 #jumb1{
   margin-top:30px;
@@ -33,4 +33,4 @@ font-family: 'Cinzel', serif;
 }
 .bttn{
   margin: 10px;
-} */
+}
