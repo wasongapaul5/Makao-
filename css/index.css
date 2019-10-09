@@ -3,17 +3,64 @@ body{
   background-repeat: no-repeat;
   background-image:url("https://www.constructionkenya.com/wp-content/uploads/2018/07/Karen.jpg");
 }
-h1{
+/* h1{
   color:black;
   font-family: 'Cinzel', serif;
   float:left;
   /* margin-top:20px; */
   /* margin-left:330px; */
-  font-size:6em;
+  
   /* padding-left: 20px; */
   /* text-align: justify; */ */
    /* clear:both; */ */ */
+
+h1{
+  text-align: center;
+  font-family: 'Cinzel', serif;
+  font-size: 2em;
+  
 }
+.svg-wrapper {
+  height: 40px;
+  margin: 0 auto;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 360px;
+  padding: 20px;
+ }
+ .shape {
+  fill: transparent;
+  stroke-dasharray: 140 540;
+  stroke-dashoffset: -474;
+  stroke-width: 8px;
+  stroke: darkred;
+ }
+ .text {
+  color: darkgoldenrod;
+  font-family: "Roboto Condensed";
+  font-size: 22px;
+  letter-spacing: 8px;
+  line-height: 32px;
+  position: relative;
+  top: -48px;
+ }
+ @keyframes draw {
+  0% {
+    stroke-dasharray: 140 540;
+    stroke-dashoffset: -474;
+    stroke-width: 8px;
+  }
+  100% {
+    stroke-dasharray: 760;
+    stroke-dashoffset: 0;
+    stroke-width: 2px;
+  }
+ }
+ .svg-wrapper:hover .shape {
+  -webkit-animation: 0.5s draw linear forwards;
+  animation: 0.5s draw linear forwards;
+ }
 #jumb1{
   margin-top:30px;
   width:500px;
