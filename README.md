@@ -6,11 +6,11 @@
 **This is a web application that prompts the user to search for free rental houses across the country from different house realtors.**
 
 ### Authors
-**Brian Ochieng**
-**Lawrence Owino**
-**Dominick Rutto**
-**Mariam Osman**
-**Paul Oketch**
+## Brian Ochieng
+## Mariam Osman
+## Paul OKetch
+## Lawrence Odhiambo
+## Dominic Rutto~
 
 ### Technologies used
 ## HTML
