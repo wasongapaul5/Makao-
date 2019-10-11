@@ -5,6 +5,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link href="https://fonts.googleapis.com/css?family=Cinzel&display=swap" rel="stylesheet">
     <link href="./css/about.css" rel="stylesheet" type="text/css" />
     <link href="./css/bootstrap.css" rel="stylesheet" type="text/css" />
     <title>About us</title>
@@ -99,22 +100,24 @@
             </div>
         </div>
     </div><br><br><br>
-    <div class="jumbotron">
+
+    <h2 id="search">Search for houses<br> all across Kenya</h2>
+    <div class="jumbotron" id="jumb">
         <div class="search-houses">
             <form>
-                <h2>Search for houses all across Kenya</h2>
+                
                 <div class="form-row">
-                    <div class="form-group col-md-6">
+                    <div class="form-group col-md-6" id="maxmin">
                         <label for="max-price"></label>
-                        <input type="tex" class="form-control" id="name" placeholder="Max Price">
+                        <input type="text" class="form-control" id="name" placeholder="Max.Price">
                     </div>
-                    <div class="form-group col-md-6">
+                    <div class="form-group col-md-12" id="maxmin">
                         <label for="min-price"></label>
-                        <input type="text" class="form-control" id="name" placeholder="Min Price">
+                        <input type="text" class="form-control" id="name" placeholder="Min.Price">
                     </div>
                 </div>
-                <div class="form-group">
-                    <select class="form-control bedrooms">
+                <div class="form-group" id="for">
+                    <select class="form-control bedrooms" id="for">
                         <option label="1 bedroom" value="1 bedroom">1 bedroom</option>
                         <option label="2 bedrooms" value="2 bedrooms">2 bedrooms</option>
                         <option label="3 bedrooms" value="3 bedrooms">3 bedrooms</option>
@@ -122,8 +125,8 @@
                         <option label="5 bedrooms" value="5 bedrooms">5 bedrooms</option>
                     </select>
                 </div>
-                <div class="form-group">
-                    <select class="form-control bathrooms">
+                <div class="form-group"  >
+                    <select class="form-control bathrooms" id="for">
                         <option label="1 bathroom" value="1 bathroom">1 bathroom</option>
                         <option label="2 bathrooms" value="2 bathrooms">2 bathrooms</option>
                         <option label="3 bathrooms" value="3 bathrooms">3 bathrooms</option>
@@ -131,6 +134,9 @@
                         <option label="5 bathrooms" value="5 bathrooms">5 bathrooms</option>
                     </select>
                 </div>
+                <div class="bttn">
+                        <button  class="btn btn-info" type="button" value="Submit" onclick="input()" width="20" height="10"><b>Search houses</b></button>
+                      </div>
             </form>
 
 
