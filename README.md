@@ -21,7 +21,7 @@
 
 ## Installation
 
-- **git clone https://github.com/dejongbrian/Makao-.git or download - **zip file.**
+- **git clone https://github.com/dejongbrian/Makao-.git or download - zip file.**
 - **Extract the zip file.**
 - **cd project folder.**
 - **launch the index.html file.**
