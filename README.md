@@ -11,6 +11,7 @@
 - **Mariam Osman**
 - **Paul Oketch**
 - **Lawrence Odhiambo**
+- **Dominic Rutto**
 
 ## Technologies used
 - **HTML**
