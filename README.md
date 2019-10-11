@@ -9,7 +9,7 @@
 ## Authors
 - **Brian Ochieng**
 - **Mariam Osman**
-- **Paul OKetch**
+- **Paul Oketch**
 - **Lawrence Odhiambo**
 
 ## Technologies used
