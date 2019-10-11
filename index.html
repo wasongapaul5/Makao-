@@ -6,12 +6,29 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
   <link rel="stylesheet" type="text/css" href="css/index.css">
+  <script src="https://www.gstatic.com/firebasejs/7.1.0/firebase-app.js"></script>
+
+  <script>
+      // Your web app's Firebase configuration
+      var firebaseConfig = {
+        apiKey: "AIzaSyBrP33iFXAevDhoqODlrXvdDzOa9XqeiH0",
+        authDomain: "makao-b874b.firebaseapp.com",
+        databaseURL: "https://makao-b874b.firebaseio.com",
+        projectId: "makao-b874b",
+        storageBucket: "",
+        messagingSenderId: "386641665602",
+        appId: "1:386641665602:web:a6415a9612b4e2985a17db"
+      };
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+    </script>
   <title>Makao</title>
 </head>
 
 <body> 
   <h1>MAKA0</h1>
-  <!-- <div class="jumbotron"> -->
+  <div class="jumbotron">
+
 <body>
    <div class="container">
     <div class="row"><h1 class="ma overlay">MAKAO</h1></div>
@@ -56,11 +73,11 @@
         <div class="form-row">
           <div class="form-group col-md-6">
             <label for="name"></label>
-            <input type="name" class="form-control" id="name" placeholder="First Name">
+            <input type="text" class="form-control" id="name" placeholder="First Name">
           </div>
           <div class="form-group col-md-6">
             <label for="name"></label>
-            <input type="name" class="form-control" id="surname" placeholder="Surname">
+            <input type="text" class="form-control" id="surname" placeholder="Surname">
           </div>
         </div>
         <div class="form-group">
@@ -71,7 +88,7 @@
         
           <div class="form-group ">
             <label for="password"></label>
-            <input type="text" class="form-control" id="password" placeholder="Password">
+            <input type="password" class="form-control" id="password" placeholder="Password">
           </div>
 
           <div class="form-group">
@@ -87,6 +104,13 @@
           </form>
           
     </div>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+
+<script src="/firebase/init.js"></script>
   <script src="./js/script.js"></script>
 </body>
 </html>
