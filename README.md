@@ -10,7 +10,6 @@
 ## Mariam Osman
 ## Paul OKetch
 ## Lawrence Odhiambo
-## Dominic Rutto~
 
 ### Technologies used
 ## HTML
