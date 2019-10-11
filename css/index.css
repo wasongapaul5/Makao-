@@ -1,4 +1,23 @@
 body{
+<<<<<<< HEAD
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-image:url("https://www.constructionkenya.com/wp-content/uploads/2018/07/Karen.jpg");
+}
+h1{
+  color:black;
+  font-family: 'Cinzel', serif;
+  float:left;
+  /* margin-top:20px; */
+  /* margin-left:330px; */
+  font-size:6em;
+  /* padding-left: 20px; */
+  /* text-align: justify; */ */
+   /* clear:both; */ */ */
+}
+#jumb1{
+  margin-top:30px;
+=======
     background-size:cover;
     background-repeat: no-repeat;
     background-image:url("https://www.constructionkenya.com/wp-content/uploads/2018/07/Karen.jpg");
@@ -100,6 +119,7 @@ body{
   }
   #jumb{
     color:#00FFFF;
+>>>>>>> upstream/dev
   width:500px;
   height:55vh;
   float:right;
