@@ -1,55 +1,54 @@
-### Project Name
+## Project Name
 
-## MAKAO
+### MAKAO
 
-### Description
+## Description
 
 **This is a web application that prompts the user to search for free rental houses across the country from different house realtors.**
 
-### Authors
+## Authors
 
-## Brian Ochieng
+### Brian Ochieng
 
-## Mariam Osman
+### Mariam Osman
 
-## Paul OKetch
+### Paul OKetch
 
-## Lawrence Odhiambo
+### Lawrence Odhiambo
 
-### Technologies used
+## Technologies used
 
-## HTML
+### HTML
 
-## CSS
+### CSS
 
-## JQUERY
+### JQUERY
 
-## BOOTSTRAP
+### BOOTSTRAP
 
-## JAVASCRIPT
+### JAVASCRIPT
 
-### Installation
+## Installation
 
 - git clone https://github.com/dejongbrian/Makao-.git or download - zip file.
-- Extract the zip file
-- cd project folder
-- launch the index.html file
+- Extract the zip file.
+- cd project folder.
+- launch the index.html file.
 
 ### BDD
 
-## As a user,I should be able to :
+**As a user,I should be able to :**
 
-**Login or sign up to access the services provided by the site.**
-**Select the number of bedrooms and bathrooms according to my preference**
-**Enter the budget that I am working with.**
+- Login or sign up to access the services provided by the site.
+- Select the number of bedrooms and bathrooms according to my preference.
+- Enter the budget that I am working with.
 
-## collaborate
+### collaborate
 
 - To collaborate to Makao,reach us on https://github.com/dejongbrian/Makao-.git
 
 ## Copyright
-
-**&copycopyright 2019 [MAKAO .inc] All rights reserved**
+@copyright 2019 [MAKAO .inc] All rights reserved**
 
 ## Licence
 
