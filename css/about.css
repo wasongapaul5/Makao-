@@ -10,9 +10,12 @@
 /* *{
   overflow-x: hidden;
 } */
+<<<<<<< HEAD
 body{
   font-family: 'Cinzel', serif;
 }
+=======
+>>>>>>> upstream/dev
 .container-fluid {
   height: 100%;
   /* overflow: hidden; */
@@ -20,7 +23,10 @@ body{
   margin: 0 auto;
   padding-top: 100px;
   padding-block-end: initial;
+<<<<<<< HEAD
   font-family: 'Cinzel', serif;
+=======
+>>>>>>> upstream/dev
 }
 
 .svg-wrapper {
@@ -42,7 +48,11 @@ body{
 
 .text {
   color: darkgoldenrod;
+<<<<<<< HEAD
   font-family: 'Cinzel', serif;
+=======
+  font-family: "Roboto Condensed";
+>>>>>>> upstream/dev
   font-size: 22px;
   letter-spacing: 8px;
   line-height: 32px;
@@ -69,7 +79,10 @@ body{
 }
 .welcome{
     text-emphasis-color: filled double-circle blue  ;
+<<<<<<< HEAD
     font-family: 'Cinzel', serif;
+=======
+>>>>>>> upstream/dev
 }
 img{
     display:block;
@@ -81,12 +94,17 @@ img{
 }
 h2{
     font-size: 32px;
+<<<<<<< HEAD
     font-family: 'Cinzel', serif;
+=======
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+>>>>>>> upstream/dev
     text-decoration-color: black;
     text-underline-position: below;
 }
 .caption{
     text-align: center;
+<<<<<<< HEAD
     font-family: 'Cinzel', serif;
 }
 .search-houses{
@@ -130,4 +148,6 @@ p{
 input[type=text]{
   font-size:20px;
   width:240px;
+=======
+>>>>>>> upstream/dev
 }
